@@ -1,0 +1,44 @@
+/* AgeCalculator.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    
+  }
+  
+  h2 {
+    color: #095adb;
+  }
+  
+  label {
+    margin-top: 15px;
+    font-size: 16px;
+  }
+  
+  input {
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #e00e0e;
+  }
+  
